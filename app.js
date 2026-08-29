@@ -147,18 +147,11 @@ const resources = [
     status: '開啟總表'
   },
   {
-    name: '學習單'
+    name: '中學生網站',
+    href: 'https://www.shs.edu.tw/',
+    status: '開啟網站'
   },
-  {
-    name: '教師版'
-  },
-  {
-    name: '教學簡報'
-  },
-  {
-    name: 'Kahoot'
-  },
-  {
+   {
     name: 'AI 使用倫理'
   }
 ];
