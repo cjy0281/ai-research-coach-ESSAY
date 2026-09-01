@@ -152,7 +152,9 @@ const resources = [
     status: '開啟網站'
   },
    {
-    name: 'AI 使用倫理'
+    name: '臺灣學術倫理教育資源中心',
+    href: 'https://ethics.moe.edu.tw/',
+    status: '開啟網站' 
   }
 ];
 
