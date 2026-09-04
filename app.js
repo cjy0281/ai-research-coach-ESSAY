@@ -155,7 +155,13 @@ const resources = [
     name: '臺灣學術倫理教育資源中心',
     href: 'https://ethics.moe.edu.tw/',
     status: '開啟網站' 
+  },
+ {
+    name: '小論文格式自我檢核輔助系統',
+    href: 'https://library1615-max.github.io/thesis-format-system/',
+    status: '開啟網站'
   }
+  
 ];
 
 document.querySelector('#resource-grid').innerHTML = resources.map((item, index) => {
