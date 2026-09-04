@@ -160,7 +160,7 @@ const resources = [
     name: '小論文格式自我檢核輔助系統',
     href: 'https://library1615-max.github.io/thesis-format-system/',
     status: '開啟網站'
-  }
+  },
   
 ];
 
